@@ -1,0 +1,226 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+header{
+  overflow: hidden;
+  background-color: #f2f4f4;
+}
+.logo{
+  width: 20%;
+  overflow: hidden;
+}
+nav{
+  margin-top: 4%;
+  margin-right: 15%;
+}
+nav ul{
+  padding: 20px 2px;
+  background-color: #000;
+}
+nav ul a.select{
+  font-family: 'Oswald', sans-serif;
+  font-size: 17px;
+  color: #fff;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+nav ul a#selector{
+  background-color: #fff;
+  color: #000;
+}
+
+.banner{
+    height: 450px;
+    background: url('../img/inicio.jpg') no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+    clear: both;
+}
+.banner .fondo{
+  background-color: rgba(0,0,0,0.5);
+  height: 450px;
+  overflow: hidden;
+}
+.banner .fondo p.uno{
+  font-family: 'Roboto', sans-serif;
+  font-size: 55px;
+  color: #fff;
+  overflow: hidden;
+  text-align: right;
+  width: 35%;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+.banner .fondo p.dos{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #fff;
+  overflow: hidden;
+  text-align: right;
+  width: 37%;
+  margin-left: 3%;
+  margin-top: 3%;
+}
+.boton button{
+  margin-top: 1%;
+  margin-left: 27.5%;
+}
+.tex{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+.cuadro{
+  background-color:  #f7f9f9;
+  border-top: 7px #000 solid;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.cuadro2, .cuadro3, .cuadro4{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.cuadro2:hover{
+  background-color:  #f7f9f9;
+  border-top: 7px #000 solid;
+}
+.cuadro3:hover{
+  background-color:  #f7f9f9;
+  border-top: 7px #000 solid;
+}
+.cuadro4:hover{
+  background-color:  #f7f9f9;
+  border-top: 7px #000 solid;
+}
+.uno1, .uno2, .uno3, .uno4{
+  display: inline-block;
+  width: 24%;
+}
+.tit{
+  background-color: rgba(204,209,209,.9);
+  font-size: 25px;
+  text-align: center;
+  color: #000;
+}
+/*.fondoa{
+  background-color: rgba(255,255,255,.5);
+  height: 200px;
+  width: 100%;
+  overflow: hidden;
+}*/
+.uno1{
+  height: 230px;
+    background: url('../img/uno.png') no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+    clear: both;
+}
+.uno2{
+  height: 230px;
+    background: url('../img/dos.png') no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+    clear: both;
+}
+.uno3{
+  height: 230px;
+    background: url('../img/tres.png') no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+    clear: both;
+}
+.uno4{
+  height: 230px;
+    background: url('../img/cuatro.png') no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+    clear: both;
+}
+.boton2{
+  margin-top: 3%;
+  text-align: center;
+  /*margin: 0 auto;*/
+  /*margin-left: 27.5%;*/
+}
+/*--------------FOOTER----------*/
+footer{
+  width: 100%;
+    background:#000;
+    font-family: 'Oswald', sans-serif;
+    height: 100px;
+    overflow: hidden;
+    clear: both;
+
+}
+footer p{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 2.5%;
+    color: #fff;
+}
+
+/*------------------nosotros----------*/
+
+.banner2{
+    height: 450px;
+    background: url('../img/nosotros.jpg') no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+    clear: both;
+}
+.banner2 .fondo2{
+  background-color: rgba(0,0,0,0.5);
+  height: 450px;
+  overflow: hidden;
+}
+.banner2 .fondo2 p.uno{
+  font-family: 'Roboto', sans-serif;
+  font-size: 55px;
+  color: #fff;
+  overflow: hidden;
+  text-align: right;
+  width: 35%;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+.banner2 .fondo2 p.dos{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #fff;
+  overflow: hidden;
+  text-align: right;
+  width: 37%;
+  margin-left: 3%;
+  margin-top: 3%;
+}
+
+
+/*-------------------servicios---------------*/
+
+
+/*-----------------contacto-----------------*/
+
