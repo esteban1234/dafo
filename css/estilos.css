@@ -395,9 +395,9 @@ footer p{
     overflow: hidden;
     clear: both;
 }
-.imagens{
+.imagens5{
   height: 200px;
-    background: url('../img/da.jpg') no-repeat;
+    background: url('../img/dc.jpg') no-repeat;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -405,9 +405,9 @@ footer p{
     overflow: hidden;
     clear: both;
 }
-.imagens{
+.imagens6{
   height: 200px;
-    background: url('../img/da.jpg') no-repeat;
+    background: url('../img/dm.jpg') no-repeat;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -415,9 +415,19 @@ footer p{
     overflow: hidden;
     clear: both;
 }
-.imagens{
+.imagens7{
   height: 200px;
-    background: url('../img/da.jpg') no-repeat;
+    background: url('../img/al.jpg') no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+    clear: both;
+}
+.imagens8{
+  height: 200px;
+    background: url('../img/mi.jpg') no-repeat;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -428,3 +438,58 @@ footer p{
 
 /*-----------------contacto-----------------*/
 
+.banner4{
+    height: 450px;
+    background: url('../img/contacto.jpg') no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+    clear: both;
+}
+.banner4 .fondo4{
+  background-color: rgba(0,0,0,0.5);
+  height: 450px;
+  overflow: hidden;
+}
+.banner4 .fondo4 p.uno{
+  font-family: 'Roboto', sans-serif;
+  font-size: 55px;
+  color: #fff;
+  overflow: hidden;
+  text-align: right;
+  width: 35%;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+.banner4 .fondo4 p.dos{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #fff;
+  overflow: hidden;
+  text-align: right;
+  width: 37%;
+  margin-left: 3%;
+  margin-top: 3%;
+}
+.textcontac{
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+  margin: 0 auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 85%;
+  text-align: center;
+}
+#contact{
+  background:#333333;
+  color:#f4f4f4;
+  padding-bottom:80px;
+  padding-top: 5%;
+}
+
+textarea.form-control{
+    height:100px;
+}
