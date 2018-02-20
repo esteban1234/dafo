@@ -218,6 +218,10 @@ footer p{
   margin-top: 3%;
 }
 
+.op-menu{
+  display: none;
+}
+
 #slider, #ul
 {
   height: 300px;

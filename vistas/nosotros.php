@@ -6,6 +6,10 @@
     <figure class="logo pull-left">
         <img src="../img/dafo.png" alt="DAFO" class="img-responsive">
     </figure>
+  
+    <div class="op-menu">
+      <i class="fa fa-bars fa-1x i-menu" aria-hidden="true"></i>
+    </div>
 
     <nav class="pull-right">
         <ul>
@@ -25,7 +29,7 @@
    </div>
 </div> <br><br>
 
-<h1 class="text-center">MISION, VISION, VALORES Y OBJETIVO</h1>
+<h1 class="text-center tit-mvvo">MISION, VISION, VALORES Y OBJETIVO</h1>
 <hr>
 
 
@@ -46,7 +50,7 @@
     <li>
     <div class="slider-container">
        <h4>VALORES</h4>
-    <p class="pull-left">
+    <p class="pull-left nada">
         <i class="fa fa-check-square"></i> Ética<br>
         <i class="fa fa-check-square"></i> Honestidad<br>
         <i class="fa fa-check-square"></i> Lealtad<br>
@@ -54,8 +58,8 @@
         <i class="fa fa-check-square"></i> Responsabilidad<br>
         <i class="fa fa-check-square"></i> Honradez
     </p>
-    <div class="text-center pull-right" style=" width:200px; height:200px; margin-right: 5%;">
-      <img src="../img/valores.png" alt="" class="img-responsive" width="200px" height="200px">
+    <div class="text-center pull-right nada n1" style=" width:200px; height:200px; margin-right: 5%;">
+      <img src="../img/valores.png" alt="" class="img-responsive img-val" width="200px" height="200px">
     </div>
   </div>
   </li>
