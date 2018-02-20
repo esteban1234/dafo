@@ -177,8 +177,7 @@
 	}
 
 	.img-val{
-		/*border: 2px solid red;*/
-		display: block;
+		display: none;
 	}
 	
 
@@ -447,9 +446,9 @@
 	}
 
 	.img-val{
-		/*border: 2px solid red;*/
-		display: block;
+		display: none;
 	}
+	
 	
 
 	.nada{
@@ -677,6 +676,11 @@
 		width: 100% !important;
 		height: 100%;
 	}*/
+
+	.img-val{
+		display: none;
+	}
+	
 
 /**************** END DISEÑO NOSOTROS*******************/
 

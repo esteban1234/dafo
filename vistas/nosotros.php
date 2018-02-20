@@ -68,7 +68,7 @@
       <h4>OBJETIVO</h4>
     <p> Brindar confianza a nuestros clientes trasmitiendo tranquilidad y seguridad generando relaciones duraderas.</p>
     <div class="text-center" style="text-align: center; width:150px; height:130px; margin: 0 auto;">
-      <img src="../img/objetivo.png" alt="" class="img-responsive" width="150px" height="155px">
+      <img src="../img/objetivo.png" alt="" class="img-responsive img-val" width="150px" height="155px">
     </div>
   </div>
   </li>
